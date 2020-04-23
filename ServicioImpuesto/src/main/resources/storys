@@ -1,0 +1,8 @@
+
+- como usuario de la aplicacion quiero escribir la partida arancelaria o un producto, seleccionar el pais y que se me 
+presente los distintos impuestos que y requerimientos que dicho producto requiere en cada pais para ser importado
+
+sub tareas
+	- crear el servicio basico con la logica de negocio
+	- crear la api basica endpoint to acceder a este servicio API
+	- crear la pagina web basica para que el usuario consulte y se resuelva su peticion
